@@ -1,0 +1,11 @@
+{
+  "attachmentFolderPath": "assets",
+  "newLinkFormat": "absolute",
+  "livePreview": false,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "useTab": false,
+  "showUnsupportedFiles": true
+}
