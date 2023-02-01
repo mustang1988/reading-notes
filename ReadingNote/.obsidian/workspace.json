@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26bfd1ee8c77a8c0",
+        "id": "c17c1f9756d379e3",
         "type": "tabs",
         "children": [
           {
-            "id": "a5268c4f87681637",
+            "id": "ac15bfe42944f1e0",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -20,11 +20,11 @@
         ]
       },
       {
-        "id": "c17c1f9756d379e3",
+        "id": "6e082119ea67b27b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac15bfe42944f1e0",
+            "id": "30d5102a5eef1d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac15bfe42944f1e0",
+  "active": "30d5102a5eef1d51",
   "lastOpenFiles": [
     "notes/神经网络和深度学习.md",
     "notes/神经网络和深度学习-梳理.md",
